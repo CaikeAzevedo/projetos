@@ -47,3 +47,10 @@ Nessa linguagem já desenvolvi programas como:
 ### HTML - CSS - JavaScript - PHP - SQL :
 Nessas linguagens em conjunto, fiz apenas um grande projeto:
 - Fiz um site de uma suposta loja de baralhos com LayOut completo, onde usuários com login e senha, produtos e pagamentos foram todos armazenados em um banco de dados SQL (Loja ficticia chamada de Caia).
+
+---
+
+###  Contato :
+
+- Email: caike.titanor@gmail.com
+- Telefone: +55 96 98112-1111
