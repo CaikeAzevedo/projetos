@@ -13,7 +13,7 @@
 
 Sou um estudante de Ciências da Computação da PUCPR buscando boas experiências de trabalho.
 - Fluente em inglês.
-- <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="23" height="23"/> Básico de Python.
+- <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="23" height="23"/> Python intermediário.
 - <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="23" height="23"/> Básico de C.
 - <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" width="23" height="23"/> HTML.
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" width="23" height="23"/> CSS.
