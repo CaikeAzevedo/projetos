@@ -26,7 +26,7 @@ Sou um estudante de Ciências da Computação da PUCPR buscando boas experiênci
 ###  Metas :
 
 - Adquirir experiências como programador/desenvolvedor (primordialmente Python e C).
-- Aprender mais Linguagens de programação (Java, C++ , C#, etc).
+- Aprender mais Linguagens de programação (Swift, C++ , C#, etc).
 
 ---
 
@@ -50,6 +50,12 @@ Nessas linguagens em conjunto, fiz apenas um grande projeto:
 - Fiz um site de uma suposta loja de baralhos com LayOut completo, onde usuários com login e senha, produtos e pagamentos foram todos armazenados em um banco de dados SQL (Loja ficticia chamada de Caia).
 
 ---
+
+###  Estudando atualmente :
+
+- Aprendendo programação orientada a objetos (<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="23" height="23"/> Java).
+- Aprendendo a usar Linux.
+- Aprendendo a usar o framework <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="23" height="23"/>Flask com Jinja.
 
 ###  Contato :
 
