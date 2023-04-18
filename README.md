@@ -39,6 +39,7 @@ Nessa linguagem já desenvolvi programas como:
 - Bingo - O usuário diz o maior número possível das cartelas e o programa randomiza números (que não podem ser repetidos) até algum jogador ter todos os seus números preenchidos.
 - Divisor de Compras - O usuário diz quantas pessoas irão pagar e com base nos preços fornecidos pelo próprio usuário, o programa calcula quanto cada pessoa vai pagar dependendo do que foi comprado.
 - Jogo da velha - Contra o computador e contra outro usuário.
+- Conversor de moedas - o usuário põe o valor e determina qual moeda ele está utilizando e para qual ele quer converter (Entre Real, Dólar e Euro) e o programa retorna o valor convertido.
 
 ### C :
 Nessa linguagem já desenvolvi programas como:
