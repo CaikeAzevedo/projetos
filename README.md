@@ -61,7 +61,7 @@ Um sistema de controls de alunos de uma escola, incluindo uma classe derivada da
 -  O programa recupera e salva objetos persistentes.
 
 ### HTML - CSS - JavaScript - PHP - SQL :
-Nessas linguagens em conjunto, fiz apenas um grande projeto:
+Nessas linguagens em conjunto, além de pequenos sites menores, fiz apenas um grande projeto:
 - Fiz um site de uma suposta loja de baralhos com LayOut completo, onde usuários com login e senha, produtos e pagamentos foram todos armazenados em um banco de dados SQL (Loja ficticia chamada de Caia).
 
 ---
