@@ -20,7 +20,7 @@ Sou um estudante de Ciências da Computação da PUCPR buscando boas experiênci
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" width="23" height="23"/> CSS.
 - <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="23" height="23"/> JavaScript.
 - <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="30" height="30"/> Básico de PHP.
-- <img src="" width="23" height="23"/> Experiência em SQL/MySQL.
+- <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="23" height="23"/> Experiência em SQL/MySQL.
 - Fiz um Curso gratuito de 60 horas na Data Science Academy - Python Fundamentos Para Análise de Dados 3.0 (certificado no repositório).
 
 ---
