@@ -27,8 +27,8 @@ Sou um estudante de Ciências da Computação da PUCPR buscando boas experiênci
 
 ###  Metas :
 
-- Adquirir experiências como programador/desenvolvedor (primordialmente Python, C ou Java).
-- Aprender mais Linguagens de programação (Swift, C++ , C#, etc).
+- Adquirir experiências como programador/desenvolvedor (primordialmente Python, C/C++ ou Java).
+- Aprender mais Linguagens de programação (Swift, C#, etc).
 - Me destacar na área de tecnologia.
 
 ---
